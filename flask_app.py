@@ -8,7 +8,10 @@ import hmac
 import hashlib
 
 app = Flask(__name__)
-w_secret = os.getenv("GITHUB_SECRET")
+w_secret = os.environ['GITHUB_SECRET']
+x_secret = os.getenv('GITHUB_SECRET')
+print(w_secret)
+print(x_secret)
 
 def is_valid_signature(x_hub_signature, data, private_key):
     hash_algorithm, github_signature = x_hub_signature.split('=', 1)
