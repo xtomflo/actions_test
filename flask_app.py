@@ -17,6 +17,6 @@ def webhook():
 
 @app.route('/')
 def hello_world():
-    return 'Hello from Amy!'
+    return 'Hello from Pipeline Academy!'
 
 
