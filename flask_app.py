@@ -77,7 +77,7 @@ def webhook():
 
 @app.route('/')
 def hello_world():
-	return 'Hello Tomek!'
+	return 'Hello Tomek! XX'
 
 
 
