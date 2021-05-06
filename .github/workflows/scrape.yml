@@ -15,7 +15,7 @@ jobs:
     - name: Fetch latest data
       run: curl https://www.fire.ca.gov/umbraco/Api/IncidentApi/GetIncidents | jq . > incidents.json
     - name: Fetch countries list
-      run: curl https://calendarific.com/api/v2/countries?api_key=c7f7787d4c0e5365332fae488a3a94af15e856ca | jq . > countries.json
+      run: curl https://calendarific.com/api/v2/countries?api_key=${{ secrets.CALENDAR_API }} | jq . > countries.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
