@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '6,26,46 * * * *'
+    - cron:  '9,29,49 * * * *'
 
 jobs:
   scheduled:
@@ -13,8 +13,9 @@ jobs:
     - name: Check out this repo
       uses: actions/checkout@v2
     - name: Fetch latest data
-      run: |-
-        curl https://www.fire.ca.gov/umbraco/Api/IncidentApi/GetIncidents | jq . > incidents.json
+      run: curl https://www.fire.ca.gov/umbraco/Api/IncidentApi/GetIncidents | jq . > incidents.json
+    - name: Fetch countries list
+      run: curl https://calendarific.com/api/v2/countries?api_key=c7f7787d4c0e5365332fae488a3a94af15e856ca | jq . > countries.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
@@ -23,3 +24,6 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
+ 
+    
+    
