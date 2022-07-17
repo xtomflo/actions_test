@@ -56,7 +56,7 @@
       "FuelType": null,
       "PercentContained": 80,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Favorable conditions overnight allowed firefighters to continue progress enhancing containment lines and mopping up. Evacuation orders have been lifted for residents only.</p>",
+      "ConditionStatement": "<p>Firefighters have been gridding the steep terrain, mopping up and back hauling hose. Fire suppression repair is ongoing, and all road closures and evacuations have been lifted. </p>",
       "Counties": [
         "Shasta"
       ],
@@ -64,7 +64,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
-      "Updated": "2022-07-16T19:15:01.18Z",
+      "Updated": "2022-07-16T19:50:13.93Z",
       "Started": "2022-07-14T16:56:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -81,14 +81,14 @@
       "StructuresDamaged": null,
       "StructuresThreatened": null,
       "StructuresEvacuated": null,
-      "PersonnelInvolved": 232,
+      "PersonnelInvolved": 221,
       "CrewsInvolved": 8,
       "Injuries": null,
       "Fatalities": null,
       "Helicopters": 1,
       "Engines": 20,
       "Dozers": 1,
-      "WaterTenders": 9,
+      "WaterTenders": 8,
       "AirTankers": null
     },
     {
@@ -244,7 +244,7 @@
       "FuelType": null,
       "PercentContained": 80,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Favorable conditions overnight allowed firefighters to continue progress enhancing containment lines and mopping up. Evacuation orders have been lifted for residents only.</p>",
+      "ConditionStatement": "<p>Firefighters have been gridding the steep terrain, mopping up and back hauling hose. Fire suppression repair is ongoing, and all road closures and evacuations have been lifted. </p>",
       "Counties": [
         "Shasta"
       ],
@@ -252,7 +252,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
-      "Updated": "2022-07-16T19:15:01.18Z",
+      "Updated": "2022-07-16T19:50:13.93Z",
       "Started": "2022-07-14T16:56:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -269,14 +269,14 @@
       "StructuresDamaged": null,
       "StructuresThreatened": null,
       "StructuresEvacuated": null,
-      "PersonnelInvolved": 232,
+      "PersonnelInvolved": 221,
       "CrewsInvolved": 8,
       "Injuries": null,
       "Fatalities": null,
       "Helicopters": 1,
       "Engines": 20,
       "Dozers": 1,
-      "WaterTenders": 9,
+      "WaterTenders": 8,
       "AirTankers": null
     },
     {
@@ -1714,7 +1714,7 @@
       "PercentContainedDisplay": "80%",
       "ExternalIncidentLink": "",
       "CountiesList": "Shasta",
-      "UpdatedDate": "2022-07-16 19:15:01",
+      "UpdatedDate": "2022-07-16 19:50:13",
       "StartedDate": "2022-07-14",
       "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
       "IncidentTypeDisplay": "Wildfire",
