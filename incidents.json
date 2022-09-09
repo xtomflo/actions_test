@@ -101,7 +101,7 @@
       "FuelType": null,
       "PercentContained": 55,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Isolated areas of heat within controls line will continue to be mopped up today. Dry conditions prevailed overnight as relative humidity recovery was minimal. Warmer and dryer conditions are expected today with a cooling trend around the area by this weekend. Damage Assessment inspections have been completed.</p>",
+      "ConditionStatement": "<p>Isolated areas of heat within controls line will continue to be mopped up today. Dry conditions prevailed overnight as relative humidity recovery was minimal. Warmer and dryer conditions are expected today with a cooling trend around the area by this weekend. Damage Assessment inspections have been completed.</p>\r\n<p>The Local Assistance Center located at the Weed Community Center, 161 East Lincoln Ave, Weed, CA. It is open on September 9, 10, &amp; 11, 2022, from 10 a.m. to 6 p.m..</p>",
       "Counties": [
         "Siskiyou"
       ],
@@ -109,7 +109,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Siskiyou",
-      "Updated": "2022-09-09T07:43:58.92Z",
+      "Updated": "2022-09-09T16:56:06.27Z",
       "Started": "2022-09-02T15:48:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -875,7 +875,7 @@
       "FuelType": null,
       "PercentContained": 55,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Isolated areas of heat within controls line will continue to be mopped up today. Dry conditions prevailed overnight as relative humidity recovery was minimal. Warmer and dryer conditions are expected today with a cooling trend around the area by this weekend. Damage Assessment inspections have been completed.</p>",
+      "ConditionStatement": "<p>Isolated areas of heat within controls line will continue to be mopped up today. Dry conditions prevailed overnight as relative humidity recovery was minimal. Warmer and dryer conditions are expected today with a cooling trend around the area by this weekend. Damage Assessment inspections have been completed.</p>\r\n<p>The Local Assistance Center located at the Weed Community Center, 161 East Lincoln Ave, Weed, CA. It is open on September 9, 10, &amp; 11, 2022, from 10 a.m. to 6 p.m..</p>",
       "Counties": [
         "Siskiyou"
       ],
@@ -883,7 +883,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Siskiyou",
-      "Updated": "2022-09-09T07:43:58.92Z",
+      "Updated": "2022-09-09T16:56:06.27Z",
       "Started": "2022-09-02T15:48:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -3822,7 +3822,7 @@
       "PercentContainedDisplay": "55%",
       "ExternalIncidentLink": "",
       "CountiesList": "Siskiyou",
-      "UpdatedDate": "2022-09-09 07:43:58",
+      "UpdatedDate": "2022-09-09 16:56:06",
       "StartedDate": "2022-09-02",
       "AdminUnit": "CAL FIRE Siskiyou",
       "IncidentTypeDisplay": "Wildfire",
