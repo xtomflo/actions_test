@@ -146,7 +146,7 @@
       "FuelType": null,
       "PercentContained": 85,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Today the fire had no growth. There will be a Red Flag warning tomorrow, Saturday, starting at 11 AM. South winds 25-35 mph and low humidity dropping into the teens and single digits. When driving around the fire, use caution.</p>\r\n<p>The Local Assistance Center will be located at the Weed Community Center, 161 East Lincoln Ave, Weed, CA. It will be open on September 9, 10, &amp; 11, 2022, from 10 a.m. to 6 p.m. each day. The center will provide access to county departments, service providers, State, Federal as well as many others.</p>\r\n<p>For information on returning home after a wildfire, visit readyforwildfire.org.</p>",
+      "ConditionStatement": "<p>There will be a Red Flag warning today, starting at 11 AM. South winds 25-35 mph and low humidity dropping into the teens and single digits. When driving around the<br />fire, use caution.</p>\r\n<p>The Local Assistance Center will be located at the Weed Community Center, 161 East Lincoln Ave, Weed, CA. It will be open on September 9, 10, &amp; 11, 2022, from 10 a.m. to 6 p.m. each day. The center will provide access to county departments, service providers, State, Federal as well as many others.</p>\r\n<p>For information on returning home after a wildfire, visit readyforwildfire.org.</p>",
       "Counties": [
         "Siskiyou"
       ],
@@ -154,7 +154,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Siskiyou Unit ",
-      "Updated": "2022-09-09T18:56:21.793Z",
+      "Updated": "2022-09-10T07:30:24.22Z",
       "Started": "2022-09-02T12:49:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -920,7 +920,7 @@
       "FuelType": null,
       "PercentContained": 85,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Today the fire had no growth. There will be a Red Flag warning tomorrow, Saturday, starting at 11 AM. South winds 25-35 mph and low humidity dropping into the teens and single digits. When driving around the fire, use caution.</p>\r\n<p>The Local Assistance Center will be located at the Weed Community Center, 161 East Lincoln Ave, Weed, CA. It will be open on September 9, 10, &amp; 11, 2022, from 10 a.m. to 6 p.m. each day. The center will provide access to county departments, service providers, State, Federal as well as many others.</p>\r\n<p>For information on returning home after a wildfire, visit readyforwildfire.org.</p>",
+      "ConditionStatement": "<p>There will be a Red Flag warning today, starting at 11 AM. South winds 25-35 mph and low humidity dropping into the teens and single digits. When driving around the<br />fire, use caution.</p>\r\n<p>The Local Assistance Center will be located at the Weed Community Center, 161 East Lincoln Ave, Weed, CA. It will be open on September 9, 10, &amp; 11, 2022, from 10 a.m. to 6 p.m. each day. The center will provide access to county departments, service providers, State, Federal as well as many others.</p>\r\n<p>For information on returning home after a wildfire, visit readyforwildfire.org.</p>",
       "Counties": [
         "Siskiyou"
       ],
@@ -928,7 +928,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Siskiyou Unit ",
-      "Updated": "2022-09-09T18:56:21.793Z",
+      "Updated": "2022-09-10T07:30:24.22Z",
       "Started": "2022-09-02T12:49:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -3786,7 +3786,7 @@
       "PercentContainedDisplay": "85%",
       "ExternalIncidentLink": "",
       "CountiesList": "Siskiyou",
-      "UpdatedDate": "2022-09-09 18:56:21",
+      "UpdatedDate": "2022-09-10 07:30:24",
       "StartedDate": "2022-09-02",
       "AdminUnit": "CAL FIRE Siskiyou Unit ",
       "IncidentTypeDisplay": "Wildfire",
