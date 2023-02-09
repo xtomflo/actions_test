@@ -1,8 +1,0 @@
-{
-  "meta": {
-    "code": 426,
-    "error_type": "too many requests",
-    "error_detail": "API Limit Exceeded. Please upgrade your account. See https://calendarific.com/ for details."
-  },
-  "response": []
-}
