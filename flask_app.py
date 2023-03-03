@@ -35,4 +35,5 @@ def webhook():
         return 'Wrong event type', 400
 @app.route('/')
 def hello_world():
-    return 'Hello Tomeczku!'
+    
+    return 'Hello!'
